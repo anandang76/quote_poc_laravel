@@ -1,0 +1,13 @@
+#errmsg, #err, #err_report
+{
+color: red;
+font-size: 21px;
+}
+.form-field-input{
+	display:inline-block;
+		border-bottom: 1px dotted;
+		font-size: 21px;
+}
+.icon-Bigger-DownArrow2{
+font-size: 7px;
+}
